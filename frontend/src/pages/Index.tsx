@@ -277,17 +277,6 @@ const Index = ({ onLogout }: IndexProps) => {
     <div className="min-h-screen bg-background">
       <Toaster position="top-center" />
 
-      {/* Logout Button - Fixed at top right corner */}
-      {onLogout && (
-        <button
-          onClick={handleLogoutClick}
-          className="fixed top-4 right-20 z-50 bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-medium shadow-lg transition-all duration-200 flex items-center gap-2"
-    style={{ position: 'fixed', top: '20px', right: '250px', zIndex: 9999 }}
-        >
-          🚪 Logout
-        </button>
-      )}
-
       {/* Header */}
       <header className="sticky top-0 z-50 glass border-b">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
@@ -308,6 +297,16 @@ const Index = ({ onLogout }: IndexProps) => {
               className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-primary transition-colors duration-300 group cursor-pointer"
               title="Scroll to upload section"
             >
+              {/* Logout Button - Fixed at top right corner */}
+      {onLogout && (
+        <button
+          onClick={handleLogoutClick}
+          className="fixed top-4 right-20 z-50 bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-medium shadow-lg transition-all duration-200 flex items-center gap-2"
+    style={{ position: 'fixed', top: '20px', right: '250px', zIndex: 9999 }}
+        >
+          🚪 Logout
+        </button>
+      )}
               <span className="inline-block transform group-hover:translate-x-1 transition-transform">
                 ⚡
               </span>
