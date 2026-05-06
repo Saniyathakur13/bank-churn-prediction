@@ -125,10 +125,8 @@ BANK-CHURN-PREDICTION/
 
 ---
 ## Screenshots
-<img width="1901" height="865" alt="Screenshot 2026-03-04 133725" src="https://github.com/user-attachments/assets/b2e37323-7b68-48d4-976e-b92ee1013254" />
-<img width="1893" height="875" alt="Screenshot 2026-03-04 133739" src="https://github.com/user-attachments/assets/5b04a6a1-730e-4781-9990-2f4f6f754471" />
-<img width="1578" height="880" alt="Screenshot 2026-03-04 133816" src="https://github.com/user-attachments/assets/019d778f-e31c-43b9-82e5-b2d1e168dd43" />
-<img width="1645" height="873" alt="Screenshot 2026-03-04 134113" src="https://github.com/user-attachments/assets/ffaebb3c-36f9-472a-bc1c-f644fdcc93ea" />
+<img width="1917" height="960" alt="bank1" src="https://github.com/user-attachments/assets/fa8e7712-e929-45dd-b1bf-98bf018173ea" />
+
 
 ## 📝 Notes
 
