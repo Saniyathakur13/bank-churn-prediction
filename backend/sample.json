@@ -1,0 +1,22 @@
+[
+  {
+    "Age": 45,
+    "Gender": "F",
+    "Dependent_count": 3,
+    "Education": "Graduate",
+    "Marital_Status": "Married",
+    "Income": "$60K - $80K",
+    "Card_Category": "Blue",
+    "Months_on_book": 36,
+    "Total_Relationship_Count": 3,
+    "Months_Inactive": 3,
+    "Contacts_Count": 4,
+    "Credit_Limit": 8000,
+    "Total_Revolving_Bal": 1000,
+    "Total_Amt_Chng_Q4_Q1": 0.6,
+    "Total_Trans_Amt": 2500,
+    "Total_Trans_Ct": 35,
+    "Total_Ct_Chng_Q4_Q1": 0.5,
+    "Avg_Utilization_Ratio": 0.3
+  }
+]
