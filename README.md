@@ -1,3 +1,4 @@
+
 # 🏦 Bank Customer Churn Prediction Web App
 
 This is an **end-to-end web application** that predicts whether a bank customer is likely to churn (leave the bank) based on their profile and transaction history.
@@ -126,6 +127,18 @@ BANK-CHURN-PREDICTION/
 ---
 ## Screenshots
 <img width="1917" height="960" alt="bank1" src="https://github.com/user-attachments/assets/fa8e7712-e929-45dd-b1bf-98bf018173ea" />
+<img width="1897" height="923" alt="bank6" src="https://github.com/user-attachments/assets/e89af665-f1dc-428d-b6d2-b2b97e13637f" />
+<img width="1895" height="677" alt="image" src="https://github.com/user-attachments/assets/3ee3b7e2-7d05-4ba7-a046-3248a24a17b9" />
+<img width="1892" height="693" alt="image" src="https://github.com/user-attachments/assets/80ff28b7-0951-4f66-a7d1-90b93aedb5a9" />
+<img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/3306a8df-d8d8-4193-9a01-2e2253abdef0" />
+<img width="1831" height="543" alt="image" src="https://github.com/user-attachments/assets/0bb81faa-96c2-4730-a4bc-fee8c8728504" />
+<img width="1893" height="571" alt="image" src="https://github.com/user-attachments/assets/899dba05-dbeb-43ef-9407-bb0268628636" />
+<img width="1776" height="481" alt="image" src="https://github.com/user-attachments/assets/9544c892-34e3-4a7d-84a4-dd51fe17ad52" />
+<img width="1888" height="815" alt="image" src="https://github.com/user-attachments/assets/521929f3-f22a-40aa-a324-89c54fe034e7" />
+<img width="1880" height="913" alt="image" src="https://github.com/user-attachments/assets/2159b51a-2a58-473a-8f8e-bbb648c74a87" />
+<img width="496" height="784" alt="image" src="https://github.com/user-attachments/assets/e560f90e-dc96-49dd-9fb2-9e0795a91285" />
+<img width="1890" height="955" alt="image" src="https://github.com/user-attachments/assets/0ba7afc3-51c5-47d9-9ad4-bef9d7682292" />
+
 
 
 ## 📝 Notes
